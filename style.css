@@ -157,7 +157,7 @@
 /*Call-div styles*/
 .call-div{
     width: 1000px;
-    background:  url(gradient1.png), url(watch.png);
+    background:  url('gradient1.png'), url('watch.png');
     background-repeat: no-repeat;
     background-size: cover;
     margin: 90px auto;
